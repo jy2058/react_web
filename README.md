@@ -1,3 +1,7 @@
+## React Web
+
+리액트와 express를 사용해서 공부용으로 만든 Web입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
